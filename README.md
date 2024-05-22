@@ -1,16 +1,13 @@
-## Hi there 👋
+## meu perfil ✴️
 
-<!--
-**lunna77/lunna77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- compartilhamento de atividades
 
-Here are some ideas to get you started:
+- linguaguem JavaEscript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou estudando na [Alura](https//www.alura.com.br)
+
+### _sejam bem vindos_ 💭 ✴️
+
+
+
+![](https://media.tenor.com/zZOt7alSzAMAAAAM/gojo-gojo-satoru.gif)
